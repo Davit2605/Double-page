@@ -1,4 +1,4 @@
-const containerEl = document.querySelector(".container");
+const containerEl = document.querySelecto(".container");
 const leftEl = document.querySelector(".left");
 const rightEl = document.querySelector(".right");
 
